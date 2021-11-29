@@ -25,6 +25,4 @@ int main() {
     else {
         std::cout << "Roots are not real solutions."  << std::endl;
     }
-
-    return 0;
 }
